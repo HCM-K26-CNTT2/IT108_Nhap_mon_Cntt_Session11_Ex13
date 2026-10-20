@@ -1,0 +1,27 @@
+﻿Phần 4 – Slide báo cáo tiến độ
+Assertion Title (Tiêu đề khẳng định): 50% lượng sách đang được mượn và 25% đã quá hạn, cần có chế độ nhắc hẹn tự động
+Content Area:
+* Con số nổi bật:
+* Con số lớn: 75%
+* Giải thích: Phần trăm số sách chưa được thu hồi (50% Đang mượn + 25% Quá hạn) trên tổng số 4 lượt mượn trong tháng.
+
+
+* Chọn loại biểu đồ:
+* Loại biểu đồ chọn: Donut Chart (Biểu đồ tròn khuyết)
+* Dữ liệu đưa vào biểu đồ:
+* Đang mượn: 50% (2 cuốn / 4)
+* Quá hạn: 25% (1 cuốn / 4)
+* Đã trả: 25% (1 cuốn / 4)
+* Lý do chọn Donut Chart:
+* VÌ chỉ có 3  mục: Đang mượn, Quá hạn, Đã trả, nên rất phù hợp với Donut chart mà không gây rối mắt.
+* Khoảng trống ở giữa tâm của Donut chart là vị trí tối ưu để đặt con số nổi bật (75%) hoặc tổng số phiếu mượn (4), giúp mắt người xem nắm bắt ngay thông điệp 
+
+
+Quy tắc 10/20/30 quy định: 10 slide – thời gian trình bày 20 phút – cỡ chữ tối thiểu 30pt.
+* slide này chiếm bao nhiêu trong tổng 10 slide?
+* Slide này chiếm 1 slide duy nhất trong tổng số 10 slide 
+
+
+* Thời gian trình bày dự kiến:
+* Trung bình mỗi slide sẽ đc 2p/slide.
+* Thời lượng trình bày cho slide là từ 2 đến 2,5 phút trước khi chuyển tiếp sang các đề xuất kỹ thuật vì có các thông số cần đc làm rõ.
